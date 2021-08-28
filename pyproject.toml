@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "tracemoevkbot"
+version = "0.1.0"
+description = "Simple bot using tracemoe API and vkbottle framework"
+authors = ["FeeeeK"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.7.2"
+aiomoe = "^1.0.4"
+python-dotenv = "^0.19.0"
+vkbottle = {url = "https://github.com/vkbottle/vkbottle/archive/refs/heads/master.zip"}
+vkbottle-types = {url = "https://github.com/vkbottle/types/archive/refs/heads/master.zip"}
+
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

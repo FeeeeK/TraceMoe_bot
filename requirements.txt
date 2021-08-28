@@ -1,3 +1,0 @@
-tracemoe @ https://github.com/FeeeeK/tracemoe/archive/master.zip
-aiofiles
-vkbottle @ https://github.com/timoniq/vkbottle/archive/master.zip

@@ -1,1 +1,5 @@
-**/__pycache__
+pycache__/
+poetry.lock
+.mypy_cache/
+*.pyc
+.env
